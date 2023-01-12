@@ -1,9 +1,6 @@
 *{
     margin: 0;
-    padding: 0;
-}
-.container1{
-    width: 100%;
+    padding: 5px;
 }
 .textcenter{
     color: white;
@@ -16,7 +13,8 @@
 .item-center{
     justify-content: center;
     align-items: center;
-    height:100vh;
+    height:100%;
+    width: 100;
     
     
 }
